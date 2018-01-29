@@ -12,4 +12,3 @@ def log(text):
 @log('WTF')
 def func():
     print('test')
-    shdbfaksjdh
